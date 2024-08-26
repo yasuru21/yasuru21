@@ -23,11 +23,13 @@ I started in Computer Science where I developed a skill in coding, but eventuall
 ## Certifications
 CompTIA Security+ (In Progress)
 Google Cybersecurity Professional Certification	
-"<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="995540a1-c6ca-42f1-8ce8-d600d5360927" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="995540a1-c6ca-42f1-8ce8-d600d5360927" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 Oracle Cloud Infrastructure AI Certified Foundations Associate	
 Oracle Cloud Data Management Certified Foundations Associate 	
 Oracle Cloud Infrastructure  Certified Foundations Associate 	
 FedVTE: Foundations of Cybersecurity for Managers	
+
+
 
 ## Projects
 
