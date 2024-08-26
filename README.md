@@ -23,7 +23,7 @@ I started in Computer Science where I developed a skill in coding, but eventuall
 ## Certifications
   <div>
     <img src="https://img.shields.io/badge/CompTIA%20Security%2B-red?style=for-the-badge&logo=comptia&logoColor=white" />
-    <img src="https://img.shields.io/badge/Google%20Cybersecurity%20Professional-blueviolet?style=for-the-badge&logo=google&logoColor=white" />
+    <img src="https://img.shields.io/badge/Google%20Cybersecurity%20Professional-blue?style=for-the-badge&logo=google&logoColor=white" />
     <img src="https://img.shields.io/badge/Oracle%20Cloud%20Infrastructure%20AI%20Certified%20Foundations%20Associate-red?style=for-the-badge&logo=oracle&logoColor=white" />
     <img src="https://img.shields.io/badge/Oracle%20Data%20Management%20Certified%20Foundations%20Associate-red?style=for-the-badge&logo=oracle&logoColor=white" />
     <img src="https://img.shields.io/badge/Oracle%20Cloud%20Infrastructure%20Certified%20Foundations%20Associate-red?style=for-the-badge&logo=oracle&logoColor=white" />
