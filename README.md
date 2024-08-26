@@ -21,12 +21,14 @@ I started in Computer Science where I developed a skill in coding, but eventuall
 
 
 ## Certifications
-- CompTIA Security+ (In Progress)
-- Google Cybersecurity Professional Certification: https://www.credly.com/badges/995540a1-c6ca-42f1-8ce8-d600d5360927/public_url
-- Oracle Cloud Infrastructure AI Certified Foundations Associate: https://brm-workforce.oracle.com/pdf/certview/images/OCI23AIFCA.png	
-- Oracle Cloud Data Management Certified Foundations Associate: https://brm-workforce.oracle.com/pdf/certview/images/OCDMF2023.png  	
-- Oracle Cloud Infrastructure  Certified Foundations Associate: https://brm-workforce.oracle.com/pdf/certview/images/OCIF2023CA.png
-- FedVTE: Foundations of Cybersecurity for Managers	
+  <div>
+    <img src="https://img.shields.io/badge/CompTIA%20Security%2B-red?style=for-the-badge&logo=comptia&logoColor=white" />
+    <img src="https://img.shields.io/badge/Google%20Cybersecurity%20Professional-blueviolet?style=for-the-badge&logo=google&logoColor=white" />
+    <img src="https://img.shields.io/badge/Oracle%20Cloud%20Infrastructure%20AI%20Certified%20Foundations%20Associate-red?style=for-the-badge&logo=oracle&logoColor=white" />
+    <img src="https://img.shields.io/badge/Oracle%20Data%20Management%20Certified%20Foundations%20Associate-red?style=for-the-badge&logo=oracle&logoColor=white" />
+    <img src="https://img.shields.io/badge/Oracle%20Cloud%20Infrastructure%20Certified%20Foundations%20Associate-red?style=for-the-badge&logo=oracle&logoColor=white" />
+    <img src="https://img.shields.io/badge/FedVTE%3A%20Foundations%20of%20Cybersecurity%20for%20Managers-blue?style=for-the-badge&logo=fedvte&logoColor=white" />
+  </div>
 
 ## Projects
 
