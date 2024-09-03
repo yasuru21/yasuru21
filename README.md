@@ -5,7 +5,7 @@ I am a recent graduate who loves technology and problem solving.
 
 ## Objective
 
-I started in Computer Science where I developed a skill in coding, but eventually found a passion for Cybersecurity through cracking systems and understanding networks. I am very eager to continue cultivating my skills and transition into this field, specififcally aiming to join as a Cybersecurity Analyst and then become a Penetration Tester.
+I started in Computer Science where I developed a skill in coding, but eventually found a passion for Cybersecurity through cracking systems and understanding networks. I am very eager to continue cultivating my skills and transition into this field, specifically aiming to join as a Cybersecurity Analyst and then become a Penetration Tester.
 
 ## Skills
 
