@@ -28,6 +28,3 @@ I started in Computer Science where I developed a skill in coding, but eventuall
 ## Projects
 - Mimikatz SOC Automation Lab
 
-## HackTheBox Progress
-<a href="https://github.com/yasuru21/htb">HTB</a>
-
