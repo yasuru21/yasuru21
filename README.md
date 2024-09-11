@@ -25,7 +25,3 @@ I started in Computer Science where I developed a skill in coding, but eventuall
     <img src="https://img.shields.io/badge/Oracle%20Cloud%20Infrastructure%20Certified%20Foundations%20Associate-red?style=for-the-badge&logo=oracle&logoColor=white" />
     <img src="https://img.shields.io/badge/FedVTE%3A%20Foundations%20of%20Cybersecurity%20for%20Managers-navy?style=for-the-badge&logo=fedvte&logoColor=white" />
   </div>
-
-## Projects
-- Mimikatz SOC Automation Lab
-
