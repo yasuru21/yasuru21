@@ -12,6 +12,7 @@ I started in Computer Science where I developed a skill in coding, but eventuall
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | SOAR and SOC Automation          | https://github.com/yasuru21/SOC_Lab/tree/main|
+| Honeynet and Azure Sentinel      | https://github.com/yasuru21/azurehoneynet|
 
 
 
